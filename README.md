@@ -103,13 +103,13 @@
 <ul>
 <li>
 <a href="https://discord.com/invite/mobile" target="_blank">
-<img src="https://img.shields.io/badge/discord:  mobile-%2300acee.svg?color=1DB954&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:  mobile-%2300acee.svg?color=4c68d7&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
 <a href="https://instagram.com/discord.mobile" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  discord.mobile-%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  -%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 </ul>
