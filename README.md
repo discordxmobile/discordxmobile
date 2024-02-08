@@ -101,10 +101,10 @@
 <div align='left'>
 
 <ul>
-<a href="https://discord.com/invite/mobile" target="_blank">
-<img src="https://img.shields.io/badge/discord:  alihansalvatore-%2300acee.svg?color=1DB954&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
-</a>
-</li>
+<br>
+<li>
+<a href="https://discord.gg/mobile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mobile" height="30" width="40" /></a>
+</p>
 <br>
 <li>
 <a href="https://sptfy.com/alihansalvatore" target="_blank">
