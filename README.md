@@ -109,7 +109,7 @@
 <br>
 <li>
 <a href="https://instagram.com/discord.mobile" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  -%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram  -%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 </ul>
