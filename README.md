@@ -101,6 +101,11 @@
 <div align='left'>
 
 <ul>
+<a href="https://discord.com/invite/mobile" target="_blank">
+<img src="https://img.shields.io/badge/discord:  alihansalvatore-%2300acee.svg?color=1DB954&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+</a>
+</li>
+<br>
 <li>
 <a href="https://sptfy.com/alihansalvatore" target="_blank">
 <img src="https://img.shields.io/badge/spotify:  alihansalvatore-%2300acee.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"/>
