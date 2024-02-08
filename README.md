@@ -101,6 +101,8 @@
     <div align='left'>
 
     <ul>
+    </a>
+    </li>
     <br>
     <li>
     <a href="https://discord.com/invite/mobile" target="_blank">
